@@ -7547,6 +7547,14 @@ fieldset:disabled .btn {
     padding-left: 3rem !important;
   }
 }
+@media (max-width: 410px) {
+  .mb-md-4 {
+    font-size: larger !important;
+  }
+  .mb-3 {
+    font-size: smaller !important;
+  }
+}
 @media (min-width: 768px) {
   .float-md-start {
     float: left !important;
